@@ -1,5 +1,7 @@
 ############### Blackjack Project #####################
 
+#clear() function imported from repl.it so in order to work, need to be in repl.it or...
+#...clear() should be replaced, otherwise it won't work.
 #Difficulty Normal 😎: Use all Hints below to complete the project.
 #Difficulty Hard 🤔: Use only Hints 1, 2, 3 to complete the project.
 #Difficulty Extra Hard 😭: Only use Hints 1 & 2 to complete the project.
